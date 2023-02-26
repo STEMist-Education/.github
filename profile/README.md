@@ -17,6 +17,8 @@ Sarvesh Madullapalli - Tech Specialist ([@EpicCodeWizard](https://github.com/Epi
 
 Arjun Nelabhotla - Website Developer and Tech Specialist ([@arjun2328])
 
+Aravindkrishna Arivudainambi - Website Developer and Tech Specialist ([@aravindkrishna2008](https://github.com/aravindkrishna2008))
+
 ## Former Contributors
 
 Snehil Kakani - Former Director of Technology and Website Developer ([@snek152](https://github.com/snek152))
