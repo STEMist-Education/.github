@@ -11,10 +11,6 @@ Vyaas Baskar - Director of Technology and Website Developer ([@VyaasBaskar](http
 
 Rohan Fernandes - Website Developer and Tech Specialist ([@proballstar](https://github.com/proballstar))
 
-Yash Seth - Website Developer and Tech Specialist ([@Yash-Singh1](https://github.com/Yash-Popcorn))
-
-Sarvesh Madullapalli - Tech Specialist ([@EpicCodeWizard](https://github.com/EpicCodeWizard))
-
 Arjun Nelabhotla - Website Developer and Tech Specialist ([@arjun2328])
 
 Aravindkrishna Arivudainambi - Website Developer and Tech Specialist ([@aravindkrishna2008](https://github.com/aravindkrishna2008))
@@ -24,6 +20,10 @@ Aravindkrishna Arivudainambi - Website Developer and Tech Specialist ([@aravindk
 Snehil Kakani - Former Director of Technology and Website Developer ([@snek152](https://github.com/snek152))
 
 Yash Singh - Former Website Developer and Tech Specialist ([@Yash-Singh1](https://github.com/Yash-Singh1))
+
+Yash Seth - Website Developer and Tech Specialist ([@Yash-Singh1](https://github.com/Yash-Popcorn))
+
+Sarvesh Madullapalli - Tech Specialist ([@EpicCodeWizard](https://github.com/EpicCodeWizard))
 
 ## What is STEMist?
 
