@@ -7,13 +7,14 @@ Welcome to the official repository for [STEMist Education](https://github.com/ST
 
 ## Contributors
 
-Vyaas Baskar - Director of Technology and Website Developer ([@VyaasBaskar](https://github.com/VyaasBaskar))
+Rohan Fernandes - Director of Technology and Fullstack Developer ([@proballstar](https://github.com/proballstar))
 
-Rohan Fernandes - Website Developer and Tech Specialist ([@proballstar](https://github.com/proballstar))
+Prashant Kondayapalepu - Website Developer ([@prashantkon](https://github.com/prashantkon))
 
-Arjun Nelabhotla - Website Developer and Tech Specialist ([@arjun2328])
+Steve Yang - Website Developer and UX Designer/Researcher ([@bonjourchez](https://github.com/bonjourchez))
 
-Aravindkrishna Arivudainambi - Website Developer and Tech Specialist ([@aravindkrishna2008](https://github.com/aravindkrishna2008))
+Santosh Papatai - Website Develoepr ([@Soontosh](https://github.com/Soontosh))
+
 
 ## Former Contributors
 
@@ -24,6 +25,13 @@ Yash Singh - Former Website Developer and Tech Specialist ([@Yash-Singh1](https:
 Yash Seth - Website Developer and Tech Specialist ([@Yash-Singh1](https://github.com/Yash-Popcorn))
 
 Sarvesh Madullapalli - Tech Specialist ([@EpicCodeWizard](https://github.com/EpicCodeWizard))
+
+Vyaas Baskar - Former Director of Technology and Website Developer ([@VyaasBaskar](https://github.com/VyaasBaskar))
+
+Arjun Nelabhotla - Website Developer and Tech Specialist ([@arjun2328])
+
+Aravindkrishna Arivudainambi - Website Developer and Tech Specialist ([@aravindkrishna2008](https://github.com/aravindkrishna2008))
+
 
 ## What is STEMist?
 
