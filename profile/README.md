@@ -9,11 +9,11 @@ Welcome to the official repository for [STEMist Education](https://github.com/ST
 
 Rohan Fernandes - Director of Technology and Fullstack Developer ([@proballstar](https://github.com/proballstar))
 
+Santosh Papatai - Website Developer and Vice Lead of Technology ([@Soontosh](https://github.com/Soontosh))
+
 Prashant Kondayapalepu - Website Developer ([@prashantkon](https://github.com/prashantkon))
 
 Steve Yang - Website Developer and UX Designer/Researcher ([@bonjourchez](https://github.com/bonjourchez))
-
-Santosh Papatai - Website Develoepr ([@Soontosh](https://github.com/Soontosh))
 
 
 ## Former Contributors
