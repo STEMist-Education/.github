@@ -1,7 +1,8 @@
 # STEMist Education
 
-![STEMist Education Logo](https://raw.githubusercontent.com/STEMist-Education/joinstemist.org/development/public/logo-dark.png#gh-light-mode-only)
-![STEMist Education Logo](https://raw.githubusercontent.com/STEMist-Education/joinstemist.org/5b40bfee4979a0b7a48f77e0c4b2878ea0256916/public/logo-white.png#gh-dark-mode-only)
+![image](https://github.com/STEMist-Education/.github/assets/83326671/8d9501e5-d9f9-4409-9cc3-c31e293ca1b4)
+
+
 
 Welcome to the official repository for [STEMist Education](https://github.com/STEMist-Education)'s website, [joinstemist.org](https://joinstemist.org) and other repositories owned by STEMist Education
 
